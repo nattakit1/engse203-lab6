@@ -39,6 +39,8 @@ DELETE http://localhost:3000/api/students/1
 
 GET http://localhost:3000/api/products
 <img width="1314" height="709" alt="image" src="https://github.com/user-attachments/assets/46a6d218-ca33-4e42-a905-0bb02feaf6d3" />
+<img width="407" height="422" alt="image" src="https://github.com/user-attachments/assets/3abd2179-1b2b-488e-93d4-9f3f12bf0684" />
+
 
 2. เพิ่ม product ใหม่
 
